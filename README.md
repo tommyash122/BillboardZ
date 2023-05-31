@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmZDg3YmMzMjQyZjVhZDAwYWRhYWViZjk4YjI5MjJhZWZmNDk2NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/gExF6CQVj7J81UiCsA/giphy.gif
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
